@@ -40,4 +40,4 @@ const char* root_ca=
 "d0lIKO2d1xozclOzgjXPYovJJIultzkMu34qQb9Sz/yilrbCgj8=\n"
 "-----END CERTIFICATE-----\n";
 
-const String ApiKey = "AIzaSyAfU2bNeeTWzuHW_ScwBdyJ6sxHKouh9rU";
+const String ApiKey = "111111111111111111111111";
